@@ -7,7 +7,7 @@ building an application that could generate those puzzles.
 
 ## Setup Steps
 
-1. [Fork and clone](https://github.com/luckyswims/sudoku-api) this repository.
+1. Fork and clone this repository.
 2. Run `bundle install` to install all dependencies
 3. Use `bin/rails server` to spin up the server.
 
@@ -77,10 +77,10 @@ DELETE | /games/:id
 
 ### Unsolved Problems
 
-- Still need to prevent users from updating cells that were set by the starting board.
 - Still need to check if the user's input is valid
 - Still need to check if the user has successfully solved the puzzle
 - Would like to eventually allow users to continue working on a puzzle they had started previously
+- Would like to eventually improve the Sudoku generator with additional complexity
 
 ## Images
 
