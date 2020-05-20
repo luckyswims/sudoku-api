@@ -85,6 +85,6 @@ DELETE | /games/:id
 ## Images
 
 #### ERD:
-![ERD](./data/Sudoku-MVP-ERD)
+![ERD](./data/Sudoku-MVP-ERD.jpeg)
 
 [1]: https://gamedev.stackexchange.com/questions/56149/how-can-i-generate-sudoku-puzzles
