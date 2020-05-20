@@ -8,7 +8,7 @@ building an application that could generate those puzzles.
 ## Setup Steps
 
 1. [Fork and clone](https://github.com/luckyswims/sudoku-api) this repository.
-2. Run `bundle` to install all dependencies
+2. Run `bundle install` to install all dependencies
 3. Use `bin/rails server` to spin up the server.
 
 ## Important Links
